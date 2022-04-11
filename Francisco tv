@@ -7,3 +7,5 @@ http://170.82.200.38/cartoon/tracks-v1a1/mono.m3u8
 http://170.82.200.35/sbt/tracks-v1a1/mono.m3u8
 #EXTINF:-1, DISNEY CHANNEL
 http://170.82.200.38/disney_channel/index.m3u8
+#EXTINF:-1,NICK
+http://cdn.connectbr.com.br/Nickelodeon/tracks-v1a1/mono.m3u8 
